@@ -1,0 +1,69 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.header{
+  height:325px;
+}
+
+.header2{
+  width:300px;
+}
+
+.w3-border-blue,.w3-hover-border-blue:hover
+{border-color:#2196F3!important}
+
+.p {
+  border: 3px solid blue;
+  border-radius: 5px;
+}
+
+.o {
+  border: 3px solid rgb(0, 0, 151);
+  border-radius: 8px;
+}
+
+.wallpaper{
+  background: url(https://cnet1.cbsistatic.com/img/D5BzKihICWRk4OotpApfVdoW3W0=/1600x900/2016/07/08/b23bd00c-7917-4385-b9d2-82cb1aaa708a/pokemon-go-logo.jpg); background-size: 33.3%
+}
+
+.fontstyle{
+  font-family:Comic Sans MS;
+  color:grey;
+}
+
+.left {
+  padding-left: 10px;
+}
+
+.w3-blue,.w3-hover-blue:hover{
+    color:#000!important;background-color:#5f61db!important
+  }
